@@ -1,0 +1,7 @@
+body {
+  font-family: "Nunito", sans-serif;
+}
+html{
+  transition: background-color 0.5s ease-in-out, color 0.5s ease;
+}
+
